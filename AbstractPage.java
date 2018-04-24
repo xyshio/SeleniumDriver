@@ -1,6 +1,6 @@
-package eucr.pages;
+package com.pages;
 
-import static eucr.pages.SeleniumDriver.getDriver;
+import static com.pages.SeleniumDriver.getDriver;
 
 import java.util.concurrent.TimeUnit;
 
